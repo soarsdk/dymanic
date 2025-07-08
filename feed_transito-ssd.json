@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "objects": [
+    {
+      "name": "FEED-TRANSITO-SSD",
+      "id": "000-TRA-SSD-001-001",
+      "ranges": [
+        "1.1.1.1",
+        "2.2.2.2",
+        "3.3.3.3"
+      ]
+    }
+  ]
+}
